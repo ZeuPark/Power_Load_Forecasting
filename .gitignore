@@ -28,6 +28,9 @@ node_modules/
 .windsurf
 scripts
 
+backup
+.venv
+
 # Task files
 # tasks.json
 # tasks/ 
