@@ -26,3 +26,8 @@ node_modules/
 
 .taskmaster
 .windsurf
+scripts
+
+# Task files
+# tasks.json
+# tasks/ 
